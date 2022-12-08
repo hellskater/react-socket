@@ -18,7 +18,8 @@
     "build:cjs": "tsc -p tsconfig-require.json",
     "clean": "rimraf lib",
     "build": "npm run build:esm && npm run build:cjs",
-    "postversion": "npm run clean && npm run build"
+    "postversion": "npm run clean && npm run build",
+    "release": "np --contents lib --no-yarn"
   },
   "peerDependencies": {
     "react": ">18.2.0",
