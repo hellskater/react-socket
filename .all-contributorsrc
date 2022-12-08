@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "hellskater",
+      "name": "K Srinivas Rao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47584722?v=4",
+      "profile": "https://www.srini-dev.tech/",
+      "contributions": [
+        "ideas",
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "react-socket",
+  "projectOwner": "hellskater",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
