@@ -1,5 +1,5 @@
 {
-  "name": "react-socket",
+  "name": "@hellskater/react-socket",
   "version": "0.0.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/hellskater"
@@ -21,7 +21,8 @@
     "build:cjs": "tsc -p tsconfig-require.json",
     "clean": "rimraf lib",
     "build": "npm run build:esm && npm run build:cjs",
-    "postversion": "npm run clean && npm run build"
+    "postversion": "npm run clean && npm run build",
+    "publish": "npm publish --access public"
   },
   "peerDependencies": {
     "react": ">18.2.0",
