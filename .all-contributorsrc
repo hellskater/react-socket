@@ -26,6 +26,22 @@
         "tool",
         "tutorial"
       ]
+    },
+    {
+      "login": "MillanSharma",
+      "name": "Millan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23433891?v=4",
+      "profile": "https://github.com/MillanSharma",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
