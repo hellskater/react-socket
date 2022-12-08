@@ -1,6 +1,6 @@
 {
   "name": "@hellskater/react-socket",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Set of a helpful hooks, which makes interaction with Socket apis easier and more efficient in a React app.",
   "author": "hellskater",
   "license": "MIT",
