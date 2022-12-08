@@ -1,4 +1,11 @@
 # react-socket
+![NPM](https://img.shields.io/npm/l/@hellskater/react-socket)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hellskater/react-socket)
+![npm](https://img.shields.io/npm/v/@hellskater/react-socket)
+![npm type definitions](https://img.shields.io/npm/types/@hellskater/react-socket)
+![GitHub forks](https://img.shields.io/github/forks/hellskater/react-socket?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/hellskater/react-socket?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/hellskater/react-socket)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
