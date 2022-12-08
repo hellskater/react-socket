@@ -7,7 +7,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/hellskater/react-socket?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hellskater/react-socket)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A React Hooks library built for using Socket in a React app in an efficient and convenient way.
@@ -22,7 +22,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hellskater"><img src="https://avatars.githubusercontent.com/u/47584722?v=4?s=100" width="100px;" alt="hellskater"/><br /><sub><b>hellskater</b></sub></a><br /><a href="https://github.com/hellskater/react-socket/commits?author=hellskater" title="Code">💻</a> <a href="https://github.com/hellskater/react-socket/commits?author=hellskater" title="Documentation">📖</a> <a href="#design-hellskater" title="Design">🎨</a> <a href="#example-hellskater" title="Examples">💡</a> <a href="#ideas-hellskater" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-hellskater" title="Maintenance">🚧</a> <a href="#research-hellskater" title="Research">🔬</a> <a href="#tool-hellskater" title="Tools">🔧</a> <a href="#tutorial-hellskater" title="Tutorials">✅</a></td>
+      <td align="center"><a href="https://github.com/hellskater"><img src="https://avatars.githubusercontent.com/u/47584722?v=4?s=100" width="100px;" alt="hellskater"/><br /><sub><b>hellskater</b></sub></a><br /><a href="https://github.com/hellskater/react-socket/commits?author=hellskater" title="Code">💻</a> <a href="https://github.com/hellskater/react-socket/commits?author=hellskater" title="Documentation">📖</a> <a href="#design-hellskater" title="Design">🎨</a> <a href="#example-hellskater" title="Examples">💡</a> <a href="#ideas-hellskater" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-hellskater" title="Maintenance">🚧</a> <a href="#research-hellskater" title="Research">🔬</a> <a href="#tool-hellskater" title="Tools">🔧</a> <a href="#tutorial-hellskater" title="Tutorials">✅</a></td>
+      <td align="center"><a href="https://github.com/MillanSharma"><img src="https://avatars.githubusercontent.com/u/23433891?v=4?s=100" width="100px;" alt="Millan"/><br /><sub><b>Millan</b></sub></a><br /><a href="https://github.com/hellskater/react-socket/commits?author=MillanSharma" title="Code">💻</a> <a href="https://github.com/hellskater/react-socket/commits?author=MillanSharma" title="Documentation">📖</a> <a href="#design-MillanSharma" title="Design">🎨</a> <a href="#example-MillanSharma" title="Examples">💡</a> <a href="#ideas-MillanSharma" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-MillanSharma" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-MillanSharma" title="Maintenance">🚧</a> <a href="#tool-MillanSharma" title="Tools">🔧</a></td>
     </tr>
   </tbody>
   <tfoot>
