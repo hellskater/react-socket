@@ -1,27 +1,33 @@
 {
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "contributors": [
-    {
-      "login": "hellskater",
-      "name": "K Srinivas Rao",
-      "avatar_url": "https://avatars.githubusercontent.com/u/47584722?v=4",
-      "profile": "https://www.srini-dev.tech/",
-      "contributions": [
-        "ideas",
-        "infra",
-        "test",
-        "code"
-      ]
-    }
-  ],
-  "contributorsPerLine": 7,
   "projectName": "react-socket",
   "projectOwner": "hellskater",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "eslint",
+  "contributors": [
+    {
+      "login": "hellskater",
+      "name": "hellskater",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47584722?v=4",
+      "profile": "https://github.com/hellskater",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "example",
+        "ideas",
+        "maintenance",
+        "research",
+        "tool",
+        "tutorial"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
 }
